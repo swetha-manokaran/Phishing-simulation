@@ -1,0 +1,7 @@
+- Check sender email carefully
+- Do not click unknown links
+- Enable 2FA
+- Verify URLs
+- Use email filters
+- Security awareness training
+

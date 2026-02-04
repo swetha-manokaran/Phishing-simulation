@@ -1,0 +1,5 @@
+1. Urgent language ("Immediate Action Required")
+2. Fake sender address
+3. Suspicious link
+4. Generic greeting
+5. Request for credentials

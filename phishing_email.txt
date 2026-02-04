@@ -1,0 +1,12 @@
+Subject: Security Alert – Immediate Action Required
+
+Dear User,
+
+We noticed suspicious activity in your account.
+Please verify your account immediately to avoid suspension.
+
+Click the link below to secure your account:
+http://example-login-page.com
+
+Thank you,
+Security Team
